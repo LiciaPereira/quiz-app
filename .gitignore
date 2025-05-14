@@ -1,0 +1,26 @@
+# Ignore build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Database files
+*.db
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.cache
+
+# Other
+*.DS_Store
+Thumbs.db

@@ -1,0 +1,31 @@
+@page "{category}"
+@model QuizModel
+@{
+    ViewData["Title"] = $"Quiz - {Model.Category}";
+}
+
+<h1>@Model.Category Quiz</h1>
+
+@if (Model.Questions.Any())
+{
+    <form method="post">
+        @foreach (var question in Model.Questions)
+        {
+            <div>
+                <p><strong>@question.Text</strong></p>
+                @foreach (var answer in question.Answers)
+                {
+                    <div>
+                        <input type="radio" id="answer-@answer.Id" name="question-@question.Id" value="@answer.Id" />
+                        <label for="answer-@answer.Id">@answer.Text</label>
+                    </div>
+                }
+            </div>
+        }
+        <button type="submit">Submit</button>
+    </form>
+}
+else
+{
+    <p>No questions available for this category.</p>
+}
