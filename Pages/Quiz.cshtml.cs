@@ -19,12 +19,17 @@ public class QuizModel : PageModel
 
   public List<Question> Questions { get; set; } = new List<Question>();
 
+  public int CurrentQuestionIndex { get; set; } = 1; //track the current question index
+  public int TotalQuestions { get; set; } = 0; //track the total number of questions
+
   public async Task OnGetAsync()
   {
     Questions = await _context.Questions
         .Include(q => q.Answers)
         .Where(q => q.Category == Category)
         .ToListAsync();
+
+    TotalQuestions = Questions.Count; //set the total number of questions
   }
 
   public async Task<IActionResult> OnPostAsync()

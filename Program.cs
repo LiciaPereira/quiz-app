@@ -13,11 +13,12 @@ builder.Services.AddDbContext<QuizContext>(options =>
 //remember to configure the app for deployment in the future
 var app = builder.Build();
 
-//seed database with sample data
+//seed database with data from JSON file
 using (var scope = app.Services.CreateScope())
 {
     var context = scope.ServiceProvider.GetRequiredService<QuizContext>();
-    QuizContext.SeedData(context);
+    var jsonFilePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "quiz_questions.json");
+    QuizContext.SeedDataFromJson(context, jsonFilePath);
 }
 
 //configure the HTTP request pipeline

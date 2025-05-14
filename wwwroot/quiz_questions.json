@@ -1,0 +1,2202 @@
+[
+  {
+    "Category": "Tech & Programming",
+    "Text": "Who developed the Linux kernel?",
+    "Answers": [
+      {
+        "Text": "Steve Jobs",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Mark Zuckerberg",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Bill Gates",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Linus Torvalds",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "What is the time complexity of binary search?",
+    "Answers": [
+      {
+        "Text": "O(log n)",
+        "IsCorrect": true
+      },
+      {
+        "Text": "O(n log n)",
+        "IsCorrect": false
+      },
+      {
+        "Text": "O(1)",
+        "IsCorrect": false
+      },
+      {
+        "Text": "O(n)",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "Which language is known for its snake logo?",
+    "Answers": [
+      {
+        "Text": "Python",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Java",
+        "IsCorrect": false
+      },
+      {
+        "Text": "C#",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Ruby",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "What does 'NaN' stand for in JavaScript?",
+    "Answers": [
+      {
+        "Text": "None at Number",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Name and Number",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Not a Number",
+        "IsCorrect": true
+      },
+      {
+        "Text": "New and Null",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "Which programming language is often used for iOS development?",
+    "Answers": [
+      {
+        "Text": "Java",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Swift",
+        "IsCorrect": true
+      },
+      {
+        "Text": "C++",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Kotlin",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "What is Git primarily used for?",
+    "Answers": [
+      {
+        "Text": "Compiling Code",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Designing UI",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Data Storage",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Version Control",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "Which of these is a frontend framework?",
+    "Answers": [
+      {
+        "Text": "React",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Laravel",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Flask",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Django",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "What symbol is used for comments in C#?",
+    "Answers": [
+      {
+        "Text": "--",
+        "IsCorrect": false
+      },
+      {
+        "Text": "#",
+        "IsCorrect": false
+      },
+      {
+        "Text": "<!-- -->",
+        "IsCorrect": false
+      },
+      {
+        "Text": "//",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "Which company created the Go language?",
+    "Answers": [
+      {
+        "Text": "IBM",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Apple",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Google",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Microsoft",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "In programming, what does 'DRY' stand for?",
+    "Answers": [
+      {
+        "Text": "Deploy React Yearly",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Don't Repeat Yourself",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Document Ready Yet",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Debug Regularly Yourself",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "What year was JavaScript created?",
+    "Answers": [
+      {
+        "Text": "1985",
+        "IsCorrect": false
+      },
+      {
+        "Text": "1999",
+        "IsCorrect": false
+      },
+      {
+        "Text": "2000",
+        "IsCorrect": false
+      },
+      {
+        "Text": "1995",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "Which of these is not a programming paradigm?",
+    "Answers": [
+      {
+        "Text": "Functional",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Teleportation",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Procedural",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Object-Oriented",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "What does IDE stand for?",
+    "Answers": [
+      {
+        "Text": "Integrated Development Environment",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Instant Download Extension",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Intelligent Design Emulator",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Internal Debugging Engine",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "Which of these is used to manage packages in Node.js?",
+    "Answers": [
+      {
+        "Text": "npm",
+        "IsCorrect": true
+      },
+      {
+        "Text": "pip",
+        "IsCorrect": false
+      },
+      {
+        "Text": "gem",
+        "IsCorrect": false
+      },
+      {
+        "Text": "composer",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "What does SQL stand for?",
+    "Answers": [
+      {
+        "Text": "Simple Question Language",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Structured Query Language",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Sequential Query List",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Structured Quick Logic",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "Which operator is used for strict equality in JavaScript?",
+    "Answers": [
+      {
+        "Text": "==",
+        "IsCorrect": false
+      },
+      {
+        "Text": "===",
+        "IsCorrect": true
+      },
+      {
+        "Text": "!=",
+        "IsCorrect": false
+      },
+      {
+        "Text": "=",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "What is the extension for a C# file?",
+    "Answers": [
+      {
+        "Text": ".cpp",
+        "IsCorrect": false
+      },
+      {
+        "Text": ".java",
+        "IsCorrect": false
+      },
+      {
+        "Text": ".c",
+        "IsCorrect": false
+      },
+      {
+        "Text": ".cs",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "Which HTML tag is used to create a hyperlink?",
+    "Answers": [
+      {
+        "Text": "<href>",
+        "IsCorrect": false
+      },
+      {
+        "Text": "<a>",
+        "IsCorrect": true
+      },
+      {
+        "Text": "<link>",
+        "IsCorrect": false
+      },
+      {
+        "Text": "<url>",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "Which language compiles to JavaScript?",
+    "Answers": [
+      {
+        "Text": "C#",
+        "IsCorrect": false
+      },
+      {
+        "Text": "TypeScript",
+        "IsCorrect": true
+      },
+      {
+        "Text": "PHP",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Python",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Tech & Programming",
+    "Text": "What is the maximum value of an 8-bit unsigned integer?",
+    "Answers": [
+      {
+        "Text": "256",
+        "IsCorrect": false
+      },
+      {
+        "Text": "127",
+        "IsCorrect": false
+      },
+      {
+        "Text": "255",
+        "IsCorrect": true
+      },
+      {
+        "Text": "512",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "Who is the voice of Groot in Guardians of the Galaxy?",
+    "Answers": [
+      {
+        "Text": "Vin Diesel",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Bradley Cooper",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Chris Pratt",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Tom Holland",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "Which show features a chemistry teacher turned drug dealer?",
+    "Answers": [
+      {
+        "Text": "Narcos",
+        "IsCorrect": false
+      },
+      {
+        "Text": "The Wire",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Breaking Bad",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Dexter",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "Which artist painted the Mona Lisa?",
+    "Answers": [
+      {
+        "Text": "Pablo Picasso",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Vincent van Gogh",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Leonardo da Vinci",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Claude Monet",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "What’s the name of the coffee shop in Friends?",
+    "Answers": [
+      {
+        "Text": "Brew Bros",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Central Perk",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Coffee House",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Espresso Lane",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "Who won the first American Idol?",
+    "Answers": [
+      {
+        "Text": "Kelly Clarkson",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Carrie Underwood",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Justin Guarini",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Fantasia Barrino",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "What is Deadpool’s real name?",
+    "Answers": [
+      {
+        "Text": "Wade Wilson",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Tony Stark",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Bruce Wayne",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Clark Kent",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "Which movie features the quote: 'Why so serious?'?",
+    "Answers": [
+      {
+        "Text": "Inception",
+        "IsCorrect": false
+      },
+      {
+        "Text": "The Dark Knight",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Joker",
+        "IsCorrect": false
+      },
+      {
+        "Text": "The Matrix",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "What instrument does Lisa Simpson play?",
+    "Answers": [
+      {
+        "Text": "Violin",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Piano",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Saxophone",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Flute",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "Which band was Freddie Mercury the lead singer of?",
+    "Answers": [
+      {
+        "Text": "Pink Floyd",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Aerosmith",
+        "IsCorrect": false
+      },
+      {
+        "Text": "The Beatles",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Queen",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "In what year did Titanic release?",
+    "Answers": [
+      {
+        "Text": "1997",
+        "IsCorrect": true
+      },
+      {
+        "Text": "1999",
+        "IsCorrect": false
+      },
+      {
+        "Text": "2000",
+        "IsCorrect": false
+      },
+      {
+        "Text": "1995",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "What is the highest-grossing film of all time (as of 2023)?",
+    "Answers": [
+      {
+        "Text": "Star Wars: TFA",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Avengers: Endgame",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Avatar",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Titanic",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "Which game is known for the phrase 'The cake is a lie'?",
+    "Answers": [
+      {
+        "Text": "Portal",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Skyrim",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Half-Life",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Minecraft",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "Who wrote Game of Thrones?",
+    "Answers": [
+      {
+        "Text": "George R.R. Martin",
+        "IsCorrect": true
+      },
+      {
+        "Text": "J.K. Rowling",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Stephen King",
+        "IsCorrect": false
+      },
+      {
+        "Text": "J.R.R. Tolkien",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "What is Eleven's power in Stranger Things?",
+    "Answers": [
+      {
+        "Text": "Super speed",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Time travel",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Telekinesis",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Invisibility",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "What is Pikachu's evolved form?",
+    "Answers": [
+      {
+        "Text": "Charizard",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Eevee",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Blastoise",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Raichu",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "Which film has a character named Jack Sparrow?",
+    "Answers": [
+      {
+        "Text": "Avengers",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Shrek",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Titanic",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Pirates of the Caribbean",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "Which song starts with 'Just a small town girl...'?",
+    "Answers": [
+      {
+        "Text": "Sweet Child O' Mine",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Bohemian Rhapsody",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Livin' on a Prayer",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Don't Stop Believin'",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "What does the TARDIS stand for?",
+    "Answers": [
+      {
+        "Text": "Time Accelerator Remote Device In Space",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Teleportation and Rapid Dimension Interface System",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Time and Relative Dimension in Space",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Total Awareness Robot Device in Space",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "Which Marvel hero uses a shield?",
+    "Answers": [
+      {
+        "Text": "Hawkeye",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Captain America",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Hulk",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Iron Man",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Pop Culture & Entertainment",
+    "Text": "Who is known as the 'Queen of Pop'?",
+    "Answers": [
+      {
+        "Text": "Lady Gaga",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Madonna",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Britney Spears",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Beyoncé",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "What planet is known as the Red Planet?",
+    "Answers": [
+      {
+        "Text": "Venus",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Jupiter",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Mars",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Saturn",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "What gas do plants absorb from the atmosphere?",
+    "Answers": [
+      {
+        "Text": "Hydrogen",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Nitrogen",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Oxygen",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Carbon Dioxide",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "How many bones are in the adult human body?",
+    "Answers": [
+      {
+        "Text": "206",
+        "IsCorrect": true
+      },
+      {
+        "Text": "208",
+        "IsCorrect": false
+      },
+      {
+        "Text": "201",
+        "IsCorrect": false
+      },
+      {
+        "Text": "205",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "Which planet has the most moons?",
+    "Answers": [
+      {
+        "Text": "Uranus",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Jupiter",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Saturn",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Neptune",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "What’s the chemical symbol for gold?",
+    "Answers": [
+      {
+        "Text": "Ag",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Gd",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Au",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Go",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "What part of the cell contains DNA?",
+    "Answers": [
+      {
+        "Text": "Nucleus",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Mitochondria",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Ribosome",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Cytoplasm",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "How long does light from the Sun take to reach Earth?",
+    "Answers": [
+      {
+        "Text": "24 hours",
+        "IsCorrect": false
+      },
+      {
+        "Text": "1 second",
+        "IsCorrect": false
+      },
+      {
+        "Text": "1 hour",
+        "IsCorrect": false
+      },
+      {
+        "Text": "8 minutes",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "Which animal can survive in space?",
+    "Answers": [
+      {
+        "Text": "Tardigrade",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Octopus",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Bacteria",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Cockroach",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "What causes tides on Earth?",
+    "Answers": [
+      {
+        "Text": "Sunlight",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Wind",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Earth’s spin",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Moon’s gravity",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "Which element has the atomic number 1?",
+    "Answers": [
+      {
+        "Text": "Hydrogen",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Helium",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Oxygen",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Carbon",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "What is H2O more commonly known as?",
+    "Answers": [
+      {
+        "Text": "Ozone",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Water",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Helium",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Hydrogen",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "Which organ pumps blood throughout the body?",
+    "Answers": [
+      {
+        "Text": "Lung",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Brain",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Liver",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Heart",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "What galaxy is Earth located in?",
+    "Answers": [
+      {
+        "Text": "Sombrero",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Whirlpool",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Milky Way",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Andromeda",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "What is the hottest planet in our solar system?",
+    "Answers": [
+      {
+        "Text": "Mercury",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Earth",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Mars",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Venus",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "What’s the speed of light?",
+    "Answers": [
+      {
+        "Text": "~300,000 km/s",
+        "IsCorrect": true
+      },
+      {
+        "Text": "150,000 km/s",
+        "IsCorrect": false
+      },
+      {
+        "Text": "100,000 km/s",
+        "IsCorrect": false
+      },
+      {
+        "Text": "500,000 km/s",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "What’s the powerhouse of the cell?",
+    "Answers": [
+      {
+        "Text": "Ribosome",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Mitochondria",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Chloroplast",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Nucleus",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "Which planet spins the fastest?",
+    "Answers": [
+      {
+        "Text": "Earth",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Saturn",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Neptune",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Jupiter",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "What’s the largest organ in the human body?",
+    "Answers": [
+      {
+        "Text": "Skin",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Liver",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Lung",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Brain",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "What’s the smallest unit of life?",
+    "Answers": [
+      {
+        "Text": "Atom",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Cell",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Molecule",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Organ",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Science & Space",
+    "Text": "What’s the common name for sodium chloride?",
+    "Answers": [
+      {
+        "Text": "Sugar",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Bleach",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Baking Soda",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Salt",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "What comes next: 2, 4, 8, 16, ?",
+    "Answers": [
+      {
+        "Text": "24",
+        "IsCorrect": false
+      },
+      {
+        "Text": "18",
+        "IsCorrect": false
+      },
+      {
+        "Text": "32",
+        "IsCorrect": true
+      },
+      {
+        "Text": "20",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "I speak without a mouth and hear without ears. What am I?",
+    "Answers": [
+      {
+        "Text": "Echo",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Wind",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Shadow",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Ghost",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "Which weighs more: 1kg of iron or 1kg of feathers?",
+    "Answers": [
+      {
+        "Text": "Iron",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Neither",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Feathers",
+        "IsCorrect": false
+      },
+      {
+        "Text": "They weigh the same",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "What’s full of holes but still holds water?",
+    "Answers": [
+      {
+        "Text": "Sponge",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Bottle",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Bag",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Bucket",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "If you have two coins that equal 30 cents and one isn’t a nickel, what are they?",
+    "Answers": [
+      {
+        "Text": "Quarter and nickel",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Two dimes",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Three nickels",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Quarter and penny",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "I’m tall when I’m young and short when I’m old. What am I?",
+    "Answers": [
+      {
+        "Text": "Human",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Tower",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Candle",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Tree",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "What gets wetter as it dries?",
+    "Answers": [
+      {
+        "Text": "Water",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Rain",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Towel",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Sun",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "If a plane crashes on the border of USA and Canada, where do you bury the survivors?",
+    "Answers": [
+      {
+        "Text": "Canada",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Depends on nationality",
+        "IsCorrect": false
+      },
+      {
+        "Text": "USA",
+        "IsCorrect": false
+      },
+      {
+        "Text": "You don’t bury survivors",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "What is always in front of you but can’t be seen?",
+    "Answers": [
+      {
+        "Text": "Future",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Light",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Air",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Time",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "Which word is spelled incorrectly in every dictionary?",
+    "Answers": [
+      {
+        "Text": "Incorrectly",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Unusual",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Wrong",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Dictionary",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "What has hands but can’t clap?",
+    "Answers": [
+      {
+        "Text": "Mannequin",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Robot",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Doll",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Clock",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "What has keys but can’t open locks?",
+    "Answers": [
+      {
+        "Text": "Keyboard",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Chest",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Car",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Piano",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "How many months have 28 days?",
+    "Answers": [
+      {
+        "Text": "All 12",
+        "IsCorrect": true
+      },
+      {
+        "Text": "1",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Depends on leap year",
+        "IsCorrect": false
+      },
+      {
+        "Text": "2",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "If you throw a red stone into the blue sea, what will it become?",
+    "Answers": [
+      {
+        "Text": "Wet",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Purple",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Cold",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Lost",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "The more you take, the more you leave behind. What are they?",
+    "Answers": [
+      {
+        "Text": "Breaths",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Thoughts",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Footsteps",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Steps",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "I have cities but no houses, rivers but no water. What am I?",
+    "Answers": [
+      {
+        "Text": "Puzzle",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Map",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Dream",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Story",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "A man pushes his car to a hotel and loses his fortune. What happened?",
+    "Answers": [
+      {
+        "Text": "Got robbed",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Real estate crash",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Car accident",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Playing Monopoly",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "What starts with 'e' and only contains one letter?",
+    "Answers": [
+      {
+        "Text": "Envelope",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Echo",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Element",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Email",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "What can travel around the world while staying in the same spot?",
+    "Answers": [
+      {
+        "Text": "WiFi",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Stamp",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Cloud",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Compass",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Logic & Riddles",
+    "Text": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+    "Answers": [
+      {
+        "Text": "Time",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Hope",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Light",
+        "IsCorrect": false
+      },
+      {
+        "Text": "The letter M",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "What does HTML stand for?",
+    "Answers": [
+      {
+        "Text": "Hyperlink and Text Marking Language",
+        "IsCorrect": false
+      },
+      {
+        "Text": "HighText Machine Language",
+        "IsCorrect": false
+      },
+      {
+        "Text": "HyperText Markup Language",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Hyper Transfer Mail Line",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "What does CSS stand for?",
+    "Answers": [
+      {
+        "Text": "Cascading Style Sheets",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Creative Style System",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Computer Style System",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Colorful Style Syntax",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "Which HTTP status code means 'Not Found'?",
+    "Answers": [
+      {
+        "Text": "200",
+        "IsCorrect": false
+      },
+      {
+        "Text": "404",
+        "IsCorrect": true
+      },
+      {
+        "Text": "403",
+        "IsCorrect": false
+      },
+      {
+        "Text": "500",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "What is the default port for HTTP?",
+    "Answers": [
+      {
+        "Text": "80",
+        "IsCorrect": true
+      },
+      {
+        "Text": "21",
+        "IsCorrect": false
+      },
+      {
+        "Text": "443",
+        "IsCorrect": false
+      },
+      {
+        "Text": "8080",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "Which tag is used for the largest heading in HTML?",
+    "Answers": [
+      {
+        "Text": "<head>",
+        "IsCorrect": false
+      },
+      {
+        "Text": "<header>",
+        "IsCorrect": false
+      },
+      {
+        "Text": "<h6>",
+        "IsCorrect": false
+      },
+      {
+        "Text": "<h1>",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "Which HTML tag is used to display an image?",
+    "Answers": [
+      {
+        "Text": "<image>",
+        "IsCorrect": false
+      },
+      {
+        "Text": "<pic>",
+        "IsCorrect": false
+      },
+      {
+        "Text": "<src>",
+        "IsCorrect": false
+      },
+      {
+        "Text": "<img>",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "What is the use of the 'alt' attribute in <img> tags?",
+    "Answers": [
+      {
+        "Text": "Text description of the image",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Adds animation",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Image title",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Image ID",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "Which language is used to style web pages?",
+    "Answers": [
+      {
+        "Text": "Python",
+        "IsCorrect": false
+      },
+      {
+        "Text": "SQL",
+        "IsCorrect": false
+      },
+      {
+        "Text": "CSS",
+        "IsCorrect": true
+      },
+      {
+        "Text": "HTML",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "What is the DOM?",
+    "Answers": [
+      {
+        "Text": "Document Object Model",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Data Open Map",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Design Oriented Model",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Download Object Method",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "Which HTML element is used to create a list with bullets?",
+    "Answers": [
+      {
+        "Text": "<ol>",
+        "IsCorrect": false
+      },
+      {
+        "Text": "<list>",
+        "IsCorrect": false
+      },
+      {
+        "Text": "<ul>",
+        "IsCorrect": true
+      },
+      {
+        "Text": "<dl>",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "Which input type is used for selecting a file?",
+    "Answers": [
+      {
+        "Text": "text",
+        "IsCorrect": false
+      },
+      {
+        "Text": "checkbox",
+        "IsCorrect": false
+      },
+      {
+        "Text": "submit",
+        "IsCorrect": false
+      },
+      {
+        "Text": "file",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "What does API stand for?",
+    "Answers": [
+      {
+        "Text": "Application Page Integration",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Advanced Page Interface",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Applied Programming Info",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Application Programming Interface",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "Which JavaScript method selects an element by ID?",
+    "Answers": [
+      {
+        "Text": "getElementById",
+        "IsCorrect": true
+      },
+      {
+        "Text": "getById",
+        "IsCorrect": false
+      },
+      {
+        "Text": "getItem",
+        "IsCorrect": false
+      },
+      {
+        "Text": "querySelectorAll",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "Which protocol is used for secure communication over a network?",
+    "Answers": [
+      {
+        "Text": "HTTPS",
+        "IsCorrect": true
+      },
+      {
+        "Text": "FTP",
+        "IsCorrect": false
+      },
+      {
+        "Text": "HTTP",
+        "IsCorrect": false
+      },
+      {
+        "Text": "SMTP",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "What does JSON stand for?",
+    "Answers": [
+      {
+        "Text": "Java Source Object Network",
+        "IsCorrect": false
+      },
+      {
+        "Text": "JavaScript Object Notation",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Joined Syntax Option Network",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Just Simple Object Notation",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "What is the main purpose of a CDN?",
+    "Answers": [
+      {
+        "Text": "Compile code",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Protect data",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Deliver content fast",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Encrypt files",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "Which unit is used for responsive font sizing?",
+    "Answers": [
+      {
+        "Text": "cm",
+        "IsCorrect": false
+      },
+      {
+        "Text": "px",
+        "IsCorrect": false
+      },
+      {
+        "Text": "em",
+        "IsCorrect": true
+      },
+      {
+        "Text": "pt",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "What does SQL stand for?",
+    "Answers": [
+      {
+        "Text": "Sequential Query Loader",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Standard Query List",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Simple Quality Line",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Structured Query Language",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "Which tag is used to create a table row?",
+    "Answers": [
+      {
+        "Text": "<tr>",
+        "IsCorrect": true
+      },
+      {
+        "Text": "<th>",
+        "IsCorrect": false
+      },
+      {
+        "Text": "<td>",
+        "IsCorrect": false
+      },
+      {
+        "Text": "<table>",
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Category": "Web Dev & Internet Trivia",
+    "Text": "What is a favicon?",
+    "Answers": [
+      {
+        "Text": "Footer image",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Website icon in the browser tab",
+        "IsCorrect": true
+      },
+      {
+        "Text": "Main logo",
+        "IsCorrect": false
+      },
+      {
+        "Text": "Alt text image",
+        "IsCorrect": false
+      }
+    ]
+  }
+]

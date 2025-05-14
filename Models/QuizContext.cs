@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json;
 
 namespace QuizApp.Models
 {
@@ -9,39 +10,42 @@ namespace QuizApp.Models
     public DbSet<Question> Questions { get; set; }
     public DbSet<Answer> Answers { get; set; }
 
-    //seed data for testing
-    public static void SeedData(QuizContext context)
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-      if (!context.Questions.Any())
-      {
-        var sampleQuestions = new List<Question>
-            {
-                new Question
-                {
-                    Text = "What is the capital of France?",
-                    Category = "Geography",
-                    Answers = new List<Answer>
-                    {
-                        new Answer { Text = "Paris", IsCorrect = true },
-                        new Answer { Text = "London", IsCorrect = false },
-                        new Answer { Text = "Berlin", IsCorrect = false }
-                    }
-                },
-                new Question
-                {
-                    Text = "What is 2 + 2?",
-                    Category = "Math",
-                    Answers = new List<Answer>
-                    {
-                        new Answer { Text = "3", IsCorrect = false },
-                        new Answer { Text = "4", IsCorrect = true },
-                        new Answer { Text = "5", IsCorrect = false }
-                    }
-                }
-            };
+      base.OnModelCreating(modelBuilder);
+    }
 
-        context.Questions.AddRange(sampleQuestions);
+    public static void SeedDataFromJson(QuizContext context, string jsonFilePath)
+    {
+      if (!File.Exists(jsonFilePath))
+      {
+        throw new FileNotFoundException($"JSON file not found: {jsonFilePath}");
+      }
+
+      var jsonData = File.ReadAllText(jsonFilePath);
+      Console.WriteLine("Seeding data from JSON file: " + jsonFilePath);
+      Console.WriteLine("JSON Data: " + jsonData);
+
+      var questions = JsonSerializer.Deserialize<List<Question>>(jsonData, new JsonSerializerOptions
+      {
+        PropertyNameCaseInsensitive = true
+      });
+
+      if (questions != null && !context.Questions.Any())
+      {
+        Console.WriteLine("Seeding the following categories:");
+        foreach (var question in questions)
+        {
+          Console.WriteLine("- " + question.Category);
+        }
+
+        context.Questions.AddRange(questions);
         context.SaveChanges();
+        Console.WriteLine("Seeding completed.");
+      }
+      else
+      {
+        Console.WriteLine("No data to seed or data already exists.");
       }
     }
   }
